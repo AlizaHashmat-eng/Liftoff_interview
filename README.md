@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aliza-hashmat/">
-    <img src="https://img.shields.io/twitter/follow/tmeyer_me?style=flat&label=Follow&logo=twitter&color=0bf&logoColor=fff" alt="Tyler Meyer's follower count" />
+    <img src="https://img.shields.io/LinkedIn/follow/aliza-hashmat_me?style=flat&label=Follow&logo=LinkedIn&color=0bf&logoColor=fff" alt="Aliza Hashmat's follower count" />
   </a>
-  <a href="https://github.com/Tameyer41/liftoff">
-    <img src="https://img.shields.io/github/stars/Tameyer41/liftoff?label=Tameyer41%2Fliftoff" alt="Liftoff repo star count" />
+  <a href="https://github.com/AlizaHashmat-eng/liftoff">
+    <img src="https://img.shields.io/github/stars/AlizaHashmat-eng/liftoff?label=AlizaHashmat-eng%2Fliftoff" alt="Liftoff repo star count" />
   </a>
 </p>
 
@@ -79,3 +79,7 @@ npx create-next-app liftoff --example "https://github.com/Tameyer41/liftoff"
 Liftoff uses FFmpeg to transcode the raw video into MP3. Chrome, Safari, and Firefox all record with different codecs, and FFmpeg is great for standardizing them.
 
 We then send the audio directly to be transcribed by OpenAI's Whisper endpoint, and then stream feedback from the edge using OpenAI's gpt-3.5-turbo.
+
+#Author
+
+Aliza Hashmat (https://www.linkedin.com/in/aliza-hashmat/)
