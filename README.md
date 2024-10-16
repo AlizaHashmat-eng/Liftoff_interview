@@ -8,15 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aliza-hashmat/">
-    <img src="https://img.shields.io/LinkedIn/follow/aliza-hashmat_me?style=flat&label=Follow&logo=LinkedIn&color=0bf&logoColor=fff" alt="Aliza Hashmat's follower count" />
-  </a>
-  <a href="https://github.com/AlizaHashmat-eng/liftoff">
-    <img src="https://img.shields.io/github/stars/AlizaHashmat-eng/liftoff?label=AlizaHashmat-eng%2Fliftoff" alt="Liftoff repo star count" />
-  </a>
-</p>
-
-<p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#one-click-deploy"><strong>One-click Deploy</strong></a> ·
   <a href="#tech-stack--features"><strong>Tech Stack + Features</strong></a> ·
